@@ -84,17 +84,6 @@ Dev-Quiz/
 4. Clique em **Continuar** para ir para a próxima pergunta.
 5. No final, confira sua **pontuação** e clique em **Reiniciar** para jogar de novo.
 
-## 🔮 Próximos passos
-
-Ideias para evoluir o projeto:
-
-- [ ] Adicionar mais categorias e mais perguntas por categoria
-- [ ] Embaralhar a ordem das perguntas e das alternativas
-- [ ] Guardar o histórico de pontuações (por exemplo, com `localStorage`)
-- [ ] Adicionar um cronômetro por pergunta
-- [ ] Melhorar a responsividade para telas pequenas
-- [ ] Publicar online (GitHub Pages, Vercel ou Netlify)
-
 ## 👤 Autor
 
 **João Paulo Pinheiro Ferraz de Arruda**
